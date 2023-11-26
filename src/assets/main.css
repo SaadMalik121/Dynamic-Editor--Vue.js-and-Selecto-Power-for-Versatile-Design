@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* margin: 10px 20px; */
+  background-color: gray;
+  overflow-x: hidden;
+
+}
+
+h4,
+h1 {
+  margin-top: 10px;
+  cursor: pointer;
+}
